@@ -1,0 +1,20 @@
+FSLTL Downsizer
+Copyright (c) 2026 Spynxo. All rights reserved.
+
+You may download, install and use FSLTL Downsizer free of charge, for personal use.
+
+You may not, without prior written permission from the author:
+- redistribute, sell, rent or publish FSLTL Downsizer or any part of it, modified or not;
+- modify, decompile, extract or reuse its code, data or graphical elements in another product.
+
+FSLTL Downsizer is not affiliated with FSLTL (FS Live Traffic Liveries) or Microsoft. It only
+processes files already on your computer. Do not redistribute packages it produces: FSLTL
+models and liveries remain the property of their authors.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+Third-party components remain under their own licenses: Electron (MIT), and texconv from
+DirectXTex by Microsoft Corporation (MIT, see texconv-LICENSE.txt).
